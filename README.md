@@ -7,5 +7,3 @@
 </a>
 
 ### Hi there 👋
-
-I'm a web developer based in Vietnam. You can follow me on [Twitter](https://twitter.com/_huygn), DMs are open if you want to talk 😊
